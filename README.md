@@ -12,25 +12,31 @@ I'm a passionate **DevOps & Cloud Engineer** with a strong foundation in CI/CD, 
 
 - 💼 Currently working as a **Senior Software Engineer** at **Nagarro**
 - ☁️ Hands-on experience with **Azure**, **AWS**, **Terraform**, **Docker**, **Kubernetes**, **GitHub Actions**, and **Azure DevOps**
-- 🔁 Automation geek: YAML, scripting (Python, PowerShell), and IaC
-- 🎯 Passionate about **Cloud Infrastructure**, **Containerization**, and **DevSecOps**
-- 🧠 Always exploring **Cloud Security**, **Monitoring**, and **SRE practices**
+- 🔁 Automation geek: **YAML**, and **scripting (Python, PowerShell)**
+- 🎯 Passionate about **Cloud**, and **DevSecOps**
+- 🧠 Always exploring **Cloud**, and **DevOps/SRE practices**
 
 ---
 
-### 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages & Scripting:
-`Python` `Java` `PowerShell`
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 🧰 DevOps & Cloud:
-`Azure` `AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Azure DevOps` `Jenkins` `Pulumi`
+### CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-#### 📦 Monitoring & Logging:
-`ELK` `Azure Monitor` `Application Insights` `Fluent Bit`
-
-#### 📈 Tools:
-`Power BI` `PostgreSQL` `Azure Data Factory` `PGBouncer`
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
 ---
 
@@ -46,19 +52,19 @@ I'm a passionate **DevOps & Cloud Engineer** with a strong foundation in CI/CD, 
 
 ### 🏆 Achievements
 
-- 🥇 *March 2022 Employee of the Month*
-- 🥈 *November 2021 Employee of the Month*
-- 🥉 *August 2020 Smart India Hackathon Winner*
+- 🏅*March 2022 Employee of the Month*
+- 🏅*November 2021 Employee of the Month*
+- 🎖️*August 2020 Smart India Hackathon Winner*
 
 ---
 
 ### 📫 Connect with Me
 
-- ✉️ [shatabdisingh2621@gmail.com](mailto:shatabdisingh2621@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shatabdi-singh/)  
-- 🧑‍💻 [GitHub](https://github.com/Shatabdi2621)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shatabdi-singh)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:shatabdisingh2621@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Shatabdi2621)
 
 ---
 
-_“Automation is good, so long as you know exactly where to put the switch.”_
+_“Automation is good, so long as you know exactly where to put the switch.” 🍪_
 
